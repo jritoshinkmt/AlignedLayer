@@ -2,6 +2,9 @@
 Fast And Cheap Proof Verification. Accelerating the Ethereum roadmap by simplifying ZK adoption.
 
 ![0szR3LkkCdWATnRyNr9wy](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/ae29dec0-9997-4bca-85ee-472d97490ce7)
+**Official Links: [Website](https://alignedlayer.com) ┃ [X](https://x.com/alignedlayer) ┃ [Discord](https://discord.com/invite/alignedlayer) ┃ [Telegram](https://t.me/aligned_layer) ┃ [Galxe](https://app.galxe.com/quest/Aligned)**
+
+<br>
 
 ## ➤ Getting Started
 **Update & Upgrade Packages**
@@ -38,7 +41,7 @@ source /home/gitpod/.bashrc
 <br>
 <br>
  
-## ➤ Download an example SP1 proof file with it's ELF file
+## ➤ Download an example SP1 proof & ELF file
 ![image](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/bc4eaaf4-b53f-4c4e-b252-3e94b3d1afbb)
 
 ```
@@ -51,10 +54,6 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 ## ➤ Send the proof
 <img width="840" alt="image" src="https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/80e59b53-b055-404b-b4a1-29fcc84e4e74">
 
-> [!NOTE]
-> You should get a response like the **blue block** in the image above ⬆️ Click and Copy your the Explorer Block Link
-
-
 ```
 rm -rf ~/aligned_verification_data/ &&
 aligned submit \
@@ -65,6 +64,13 @@ aligned submit \
 --conn wss://batcher.alignedlayer.com
 ```
 
+> [!NOTE]
+> You should get a response like the **blue block** in the image above ⬆️
+> 
+> Click and Copy your the Explorer Block LinkSure, and you will also see the image below ⬇️
+
+![image](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/7004ae8d-1d71-4a4e-9d96-61df367a4671)
+ 
 <br>
 <br>
  
@@ -94,9 +100,9 @@ aligned verify-proof-onchain \
 ## ➤ Take A Screenshoot, upload to X and Discord
 <img width="847" alt="image" src="https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/7764336d-20e6-4f4e-ad57-09a906169b06">
 
-
-### X Post Template:
-![IMG_4986](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/95a9d16f-00b2-4f88-b3c6-3e3b53c094a4)
+> [!NOTE]
+> **X Post Template:**
+> ![IMG_4986](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/95a9d16f-00b2-4f88-b3c6-3e3b53c094a4)
 
 ```
 Just submitted a proof via @alignedlayer
@@ -105,6 +111,6 @@ I am now #aligned ✅
 [Paste Your Block Explorer Link]
 ```
 
-
-### Discord Post Template:
-![image](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/9a63ea20-16ac-438f-98e8-bef49c0cbbab)
+> [!NOTE]
+> **Discord Post Template:**
+> ![image](https://github.com/jritoshinkmt/AlignedLayer/assets/80070027/9a63ea20-16ac-438f-98e8-bef49c0cbbab)
